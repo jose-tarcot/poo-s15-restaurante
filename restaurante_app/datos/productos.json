@@ -1,0 +1,34 @@
+[
+    {
+        "codigo": "P01",
+        "nombre": "Churrasco mixto",
+        "precio": 7.5,
+        "categoria": "PARRILLA",
+        "tiempo_preparacion": 25,
+        "stock": 8
+    },
+    {
+        "codigo": "P02",
+        "nombre": "Camarones apanados",
+        "precio": 6.0,
+        "categoria": "MARISCOS",
+        "tiempo_preparacion": 20,
+        "stock": 5
+    },
+    {
+        "codigo": "P03",
+        "nombre": "Tallarin de verduras",
+        "precio": 4.0,
+        "categoria": "VEGETARIANO",
+        "tiempo_preparacion": 15,
+        "stock": 6
+    },
+    {
+        "codigo": "P04",
+        "nombre": "Limonada natural",
+        "precio": 1.5,
+        "categoria": "BEBIDA",
+        "tiempo_preparacion": 5,
+        "stock": 15
+    }
+]
